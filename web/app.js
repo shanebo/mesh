@@ -1,4 +1,4 @@
-// Specific App code, like BibleQ
+// Specific App code
 
 var handler = function(e){
 	document.getElementById('event').innerHTML = e.type + ' event fired!';
